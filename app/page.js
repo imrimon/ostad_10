@@ -31,6 +31,7 @@ export default function Home() {
               </button>
             </div>
           </div>
+          <i className="pt-20 text-blue-300">&nbsp;copyright by Rimon Paul</i>
         </div>
       </section>
     </Fragment>
