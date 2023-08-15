@@ -1,52 +1,63 @@
 [
     {
-      "id": 1,
+      "id": 7,
       "title": "Getting Started with Next.js",
-      "content": "This is a blog post about how to get started with Next.js...",
+      "content": "In the rapidly evolving landscape of web development, it's crucial to stay up-to-date with the latest tools and technologies. One such tool that has gained immense popularity is Next.js. Next.js is a React framework that simplifies the process of building modern web applications by providing an intuitive development experience, efficient server-side rendering (SSR), and seamless client-side routing. In this blog post, we'll delve into the world of Next.js and explore how to get started with this powerful framework.
+
+      Why Next.js?
+      
+      Before we dive into the technical details, let's understand why Next.js has become a preferred choice for developers. First and foremost, Next.js brings the benefits of server-side rendering to React applications. This means that the initial page load is faster, resulting in better user experiences and improved search engine optimization (SEO).
+      
+      Setting Up Your Next.js Project
+      
+      To start using Next.js, you'll need Node.js and npm (Node Package Manager) installed on your machine. Begin by creating a new directory for your project, and then open your terminal and navigate to that directory....",
       "image":"https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80",
-      "date":"12/04/2023"
+      "date":"15/08/2023"
     },
     {
-      "id": 2,
+      "id": 6,
       "title": "Advanced Next.js Techniques",
-      "content": "In this blog post, we'll explore some advanced techniques...",
+      "content": "Next.js has quickly established itself as a go-to framework for building modern, performant, and SEO-friendly web applications. While its core features provide a solid foundation, Next.js offers several advanced techniques that empower developers to create more sophisticated and efficient applications. In this blog post, we'll delve into some of these advanced Next.js techniques that can elevate your web development game.
+
+      Server-Side Rendering (SSR) and Static Site Generation (SSG):
+      Next.js provides seamless server-side rendering and static site generation. SSR ensures that pages are rendered on the server and delivered to the client as fully-rendered HTML, which enhances performance and SEO. SSG generates static HTML files at build time, reducing server load and enabling rapid page loading. By combining both techniques strategically, developers can optimize the balance between dynamic and static content, resulting in faster page loads and better search engine rankings....",
       "image":"https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-       "date":"12/04/2023"
+       "date":"15/08/2023"
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "Mastering React Hooks Management",
       "content": "Learn how to use React hooks effectively in your projects...",
       "image": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=725&q=80",
-       "date":"12/04/2023"
+       "date":"15/08/2023"
     },
     {
       "id": 4,
       "title": "Introduction to Web Accessibility",
       "content": "Discover the importance of web accessibility and how to ...",
       "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHByb2dyYW1taW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-       "date":"12/04/2023"
+       "date":"15/08/2023"
     },
     {
-      "id": 5,
+      "id": 3,
       "title": "CSS Grid Layout for Responsive Web Design",
       "content": "Learn how to create flexible and responsive layouts using CSS grid...",
       "image": "https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-       "date":"12/04/2023"
+       "date":"15/08/2023"
     },
     {
-      "id": 6,
+      "id": 2,
       "title": "Optimizing Performance in React Apps",
       "content": "Explore strategies to optimize performance in your React applications...",
       "image": "https://images.unsplash.com/photo-1585079542156-2755d9c8a094?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-       "date":"12/04/2023"
+       "date":"15/08/2023"
     },
     {
-      "id": 7,
+      "id": 1,
       "title": "Introduction to GraphQL",
       "content": "Learn how to use GraphQL to efficiently fetch data in your applications...",
       "image": "https://images.unsplash.com/photo-1534665482403-a909d0d97c67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-       "date":"12/04/2023"
+       "date":"15/08/2023"
     }
     
   ]
